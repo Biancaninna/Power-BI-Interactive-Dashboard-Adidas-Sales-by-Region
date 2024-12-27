@@ -1,6 +1,10 @@
 # Adidas Sales Overview Analysis
 In this project we will build dynamic and interactive Adidas Sales Overview Analysis Dashboard by Region, we will use MySQL and Power BI tools which are currently being used in the market and there is a very high demand for these particular tools. We will use some advanced functions, some advanced Dax functions, conditional filtering and conditional formatting, and also action filters. Adidas sales data by Region in this project is obtained from Kaggle.com.
 
+You can see the final result of the Power BI Dashboard visualization in this project by clicking the badge below
+
+   [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/Biancaninna/Power-BI-Interactive-Dashboard-Adidas-Sales-by-Region/blob/9eda8d2c19d8c3c0d1c72fce2eb825d87f2b4270/Adidas%20Sales%20by%20Region%20Interactive%20Power%20BI%20Dashboard.pbix)
+
 ## Steps in Project
 1. Requirement Gathering/ Business Requirements
 2. Data Walkthrough
@@ -197,6 +201,3 @@ Our clients wants us to create a Adidas sales by region dashboard so that they c
 
 To visualize it, just select Matrix on Visualization and drag Region field to Row, then bring all the KPIs above to Values. Next we just need to do some formatting.
 
-You can see the final result of the Power BI Dashboard visualization in this project by clicking the badge below
-
-   [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/Biancaninna/Adidas-Sales-Overview-Analysis/blob/72e87c4f72902b266f727fb4bf50b4b141c181a2/Adidas%20Sales%20Dashboard%20Power%20BI.pbix)
