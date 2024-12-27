@@ -5,6 +5,10 @@ You can see the final result of the Power BI Dashboard visualization in this pro
 
    [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/Biancaninna/Power-BI-Interactive-Dashboard-Adidas-Sales-by-Region/blob/9eda8d2c19d8c3c0d1c72fce2eb825d87f2b4270/Adidas%20Sales%20by%20Region%20Interactive%20Power%20BI%20Dashboard.pbix)
 
+### Power BI dashboard final looks
+
+ ![image alt](https://github.com/Biancaninna/Power-BI-Interactive-Dashboard-Adidas-Sales-by-Region/blob/22d41fd62660ef5866f334b296565a2e94717030/Interactive%20Power%20BI%20Dashboard%20Adidas%20Sales%20by%20Region%201.png)
+
 ## Steps in Project
 1. Requirement Gathering/ Business Requirements
 2. Data Walkthrough
